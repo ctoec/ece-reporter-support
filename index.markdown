@@ -6,8 +6,6 @@ title: Home
 
 ---
 
-![ECE Reporter screenshot](assets/images/ece-reporter.png "ECE Reporter screenshot")
-
 # ECE Reporter Help
 {: .fs-9 }
 
