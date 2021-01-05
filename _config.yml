@@ -22,8 +22,8 @@ title: ECE Reporter Help
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Help guides for Connecticut Office of Early Childhood's ECE Reporter tool.
-baseurl: "/ece-reporter-support/" # the subpath of your site, e.g. /blog
-url: "https://ctoec.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+#baseurl: "/ece-reporter-support/" # the subpath of your site, e.g. /blog
+url: "https://help.ece-reporter.ctoec.org/" # the base hostname & protocol for your site, e.g. http://example.com
 
 
 # Build settings
