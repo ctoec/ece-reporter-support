@@ -18,7 +18,7 @@ nav_order: 1
 
 
 
-## Find the record to be edited
+## Find a record's enrollment and funding section
 - Navigate to your ECE Reporter roster
 - When you find the record you’d like to edit, click on the child’s name to open their enrollment record.
 - Click on the Enrollment and funding tab below the child's name near the top of the page.
