@@ -52,7 +52,7 @@ The new enrollment will be displayed in the current enrollment section.
 
 The previous enrollment will be saved in the past enrollment section at the bottom of the page.
 
-![Changed enrollment](../assets/images/new-enrollment.png "Changed enrollment")
+![Changed enrollment](../assets/images/newenrollment.png "Changed enrollment")
 
 --- 
 
