@@ -144,7 +144,7 @@ See how to find child records, see withdrawn enrollments and view rosters for pr
 ## Need more support?
 Contact the ECE Reporter team through this form. 
 
-[Get in touch](https://ece-reporter.ctoec.org/help)
+[Get in touch](https://help.ece-reporter.ctoec.org/get-support/)
 
 ---
 
