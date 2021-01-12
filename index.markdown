@@ -33,6 +33,7 @@ Right now, we need all providers to use ECE Reporter to upload their program’s
 ECE Reporter is a tool that helps you:
 - Upload mandated enrollment data to OEC 
 - Maintain that data to keep it up to date every month
+- ECE Reporter does not replace your monthly funding reports for CDC, School Readiness and/or Smart Start, you will need to complete those as usual. 
 
 ECE Reporter collects required enrollment data for 5 programs
 - Child Day Care
