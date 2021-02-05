@@ -34,12 +34,12 @@ If you do not want to wait, then data should be entered into the new system for 
 ## Log in
 
 ### I haven’t received the email to create my password.
-The email would have come from no-reply@ctoec.org, so please check your spam and other folders. If you can’t locate that email, you are also able to reset your password by going to ECE Reporter (https://ece-reporter.ctoec.org/) and using the Forgot Password link that can be found upon clicking Log in. 
+The email would have come from no-reply@ctoec.org, so please check your spam and other folders. If you can’t locate that email, you are also able to reset your password by going to [ECE Reporter](https://ece-reporter.ctoec.org/) and using the Forgot Password link that can be found upon clicking Log in. 
 
 Once you’ve reset your password, you should be able to log in to ECE Reporter using your email address as your username and your newly set password. 
 
 ### When I click the link to create my password, it says “Access Denied”. 
-The link to reset your password most likely expired, but you are still able to reset your password by going to ECE Reporter (https://ece-reporter.ctoec.org/) and using the Forgot Password link that can be found upon clicking Log in. 
+The link to reset your password most likely expired, but you are still able to reset your password by going to [ECE Reporter](https://ece-reporter.ctoec.org/) and using the Forgot Password link that can be found upon clicking Log in. 
 
 Once you’ve reset your password, you should be able to log in to ECE Reporter using your email address as your username and your newly set password. 
 
