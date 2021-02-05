@@ -50,7 +50,9 @@ Once you’ve reset your password, you should be able to log in to ECE Reporter 
 ### I need to add another person to have access to our site/organization. 
 Please provide us with the person’s name, email address, and the sites that they should have access to in ECE Reporter. Once we receive that information, our team will create their account and they will receive communications as to how to log into ECE Reporter.
 
-### Missing Sites or Funding
+---
+
+## Missing Sites or Funding
 
 
 ### We used to be able to select federal Head Start (or private pay) in ECIS. Why is that not an option now?
