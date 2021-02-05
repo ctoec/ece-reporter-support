@@ -48,6 +48,12 @@ The new tool has big benefits — both for you and for OEC.
 
 Accurate data about enrollment in our state-funded programs is essential. It’s the only way for OEC to make informed decisions about state policies, funding, and practices. We rely on providers like you to supply this data, and we’re grateful for your help. 
 
+---
+## Watch a walkthrough of ECE Reporter
+This video of our "Welcome to ECE Reporter" session shows how to get started with the tool.
+
+<iframe src="https://drive.google.com/file/d/1I5IFB3HUQMYJgpSw6a-MSjBPdRKtMuBd/preview" width="640" height="480"></iframe>
+
 
 ---
 
