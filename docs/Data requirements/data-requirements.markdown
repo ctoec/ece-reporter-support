@@ -22,7 +22,7 @@ nav_order: 4
 The data collection period begins July 1, 2020 and continues through December 31, 2020.
 
 ## Initial data submission deadline
-You must submit your data to OEC by 03/05/2021.
+You must submit your data to OEC by 03/08/2021.
 
 ## Enrollments to include
 Children receiving funding through the following programs:
