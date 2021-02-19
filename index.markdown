@@ -24,8 +24,8 @@ title: Home
 
 The Office of Early Childhood (OEC) is excited to announce the launch of our new data collection tool — ECE Reporter. This page will give you a quick overview of what the tool does and how it works, along with relevant links to our detailed help section. 
 
-> **Make sure to upload your data by March 5, 2021**
-Right now, we need all providers to use ECE Reporter to upload their program’s child enrollment data from July 1 to December 31, 2020. See how to prepare your enrollment data file in [this guide](/prepare-your-data/). The deadline for submitting this data is March 5, 2021. 
+> **Make sure to upload your data by March 8, 2021**
+Right now, we need all providers to use ECE Reporter to upload their program’s child enrollment data from July 1 to December 31, 2020. See how to prepare your enrollment data file in [this guide](/prepare-your-data/). The deadline for submitting this data is March 8, 2021. (Note that we've moved the deadline from March 5th to March 8th.)
 
 ---
 
