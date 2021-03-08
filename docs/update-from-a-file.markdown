@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Updating from a file
-permalink: /verify/
+permalink: /update/
 nav_order: 5
 
 ---
