@@ -32,11 +32,13 @@ At the moment, only the following are supported in the data template to be used 
 - An existing child with changed funding and/or space type
 
 Note: if your updated data template includes rows for children already in ECE Reporter with no changes, ECE Reporter will detect those as duplicates and not upload them into the system. You can verify this on the preview page prior to saving the updates to your roster. 
-  
+
+---
   
 #### A new child record
 Enter a row for a new child who has enrolled in your program, with data in all required columns.
   
+---
 
 #### An existing child with updated birth certificate information
 Enter a row for a child currently enrolled in your program, making sure that all of the following columns match the information in ECE Reporter:
@@ -49,7 +51,9 @@ Then, enter in or edit the following columns:
 - Birth Certificate ID # (if applicable)
 - Town of birth (if applicable)
 - State of birth (if applicable)
-  
+
+---
+
 #### An existing child with updated address
 Enter a row for a child currently enrolled in your program, making sure that all of the following columns match the information in ECE Reporter:
 - First name
@@ -61,6 +65,8 @@ Then, enter in or edit the following columns:
 - City
 - State
 - Zipcode
+
+---
   
 #### A withdrawn child with ended enrollment
 Enter a row for a child who has withdrawn from your program, making sure that all of the following columns match the information in ECE Reporter:
@@ -79,6 +85,8 @@ Then, enter in the following columns:
 - Enrollment end date
 - Enrollment exit reason
 - Last funding period
+
+---
   
 #### An existing child with changed site
 Enter TWO rows for a child currently enrolled in your program, making sure that all of the following columns match the information in ECE Reporter:
@@ -109,6 +117,8 @@ In the FIRST of those two rows, enter in the new site enrollment and funding by 
 - Space type
 - First funding period
 
+---
+
 #### An existing child with changed age group (with or without changed funding)
 Enter TWO rows for a child currently enrolled in your program, making sure that all of the following columns match the information in ECE Reporter:
 - First name
@@ -135,6 +145,8 @@ In the FIRST of those two rows, enter in the new age group (and funding) by comp
 - Funding type
 - Space type
 - First funding period
+
+---
 
 #### An existing child with changed funding and/or space type
 Enter TWO rows for a child currently enrolled in your program, making sure that all of the following columns match the information in ECE Reporter:
