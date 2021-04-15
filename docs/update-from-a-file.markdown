@@ -94,7 +94,7 @@ Enter TWO rows for a child currently enrolled in your program, making sure that 
 - Last name
 - Date of birth
 
-In the SECOND of those two rows, make sure that the following columns for enrollment and funding match the information in ECE Reporter:
+In the FIRST of those two rows, make sure that the following columns for enrollment and funding match the information in ECE Reporter:
 - Provider 
 - Site
 - Age group
@@ -108,7 +108,7 @@ Then, in that same row, enter in the following columns:
 - Enrollment exit reason
 - Last funding period
 
-In the FIRST of those two rows, enter in the new site enrollment and funding by completing the following columns: 
+In the SECOND of those two rows, enter in the new site enrollment and funding by completing the following columns: 
 - Provider 
 - Site
 - Age group
@@ -127,7 +127,7 @@ Enter TWO rows for a child currently enrolled in your program, making sure that 
 - Provider 
 - Site
 
-In the SECOND of those two rows, make sure that the following columns for enrollment and funding match the information in ECE Reporter:
+In the FIRST of those two rows, make sure that the following columns for enrollment and funding match the information in ECE Reporter:
 - Age group
 - Enrollment start date
 - Funding type
@@ -139,7 +139,7 @@ Then, in that same row, enter in the following columns:
 - Enrollment exit reason (most likely "Aged out")
 - Last funding period
 
-In the FIRST of those two rows, enter in the new age group (and funding) by completing the following columns: 
+In the SECOND of those two rows, enter in the new age group (and funding) by completing the following columns: 
 - Age group
 - Enrollment start date
 - Funding type
@@ -158,7 +158,7 @@ Enter TWO rows for a child currently enrolled in your program, making sure that 
 - Age group
 - Enrollment start date
 
-In the SECOND of those two rows, make sure that the following columns for funding match the information in ECE Reporter:
+In the FIRST of those two rows, make sure that the following columns for funding match the information in ECE Reporter:
 - Funding type
 - Space type
 - First funding period
@@ -166,7 +166,7 @@ In the SECOND of those two rows, make sure that the following columns for fundin
 Then, in that same row, enter in the following columns: 
 - Last funding period
 
-In the FIRST of those two rows, enter in the new funding and/or space type by completing the following columns: 
+In the SECOND of those two rows, enter in the new funding and/or space type by completing the following columns: 
 - Funding type
 - Space type
 - First funding period
