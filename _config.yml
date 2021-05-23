@@ -27,8 +27,6 @@ url: "https://help.ece-reporter.ctoec.org/" # the base hostname & protocol for y
 
 # Build settings
 remote_theme: pmarsceill/just-the-docs
-source: _site
-destination: dist
 
 # Aux links for the upper right navigation
 aux_links:

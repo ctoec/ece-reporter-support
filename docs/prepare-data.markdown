@@ -6,15 +6,8 @@ nav_order: 2
 
 ---
 
-
-
-# Guide: How to prepare your July to December data 
+# How to use the data collection template
 {: .no_toc }
-
-Everything you need to meet OEC's July to December data collection request.
-{: .fs-6 .fw-300 }
-
-
 
 ## Table of contents
 {: .no_toc .text-delta }
@@ -23,26 +16,7 @@ Everything you need to meet OEC's July to December data collection request.
 {:toc}
 
 
---- 
-
-## Review the data collection basics
-
-### Data collection period
-The data collection period begins July 1, 2020 and continues through December 31, 2020.
-
-### Data submission deadline
-You must submit your data to OEC by 03/05/2021.
-
-### Enrollments to include
-Children receiving funding through the following programs:
-
-- Child Day Care
-- Competitive School Readiness
-- Priority School Readiness
-- State Head Start
-- Smart Start
-
---- 
+---
 
 ## Review the data requirements
 
@@ -57,6 +31,14 @@ ECE Reporter supports two methods:
 1. Enter data in OEC's template and upload all your enrollments at once. See the rest of this guide for instructions.
 2. Enter enrollment records one at a time. See [working with child records](/child-records/) for more guidance.
 
+
+## Enrollments to include
+- Children receiving funding through the following programs:
+- Child Day Care
+- Competitive School Readiness
+- Priority School Readiness
+- State Head Start
+- Smart Start
 
 ---
 
@@ -103,7 +85,7 @@ See [tips for formatting data](/format-data) for resources that may help you get
 
 ### Add enrollments that have changed
 
-Since the Office of Early Childhood is requesting data from 07/01/2020 to 12/31/2020, you'll need to record enrollment and funding changes. This section will show you how to add those historical updates to OEC's data template.
+When you’re updating several months of data at once, you'll need to record enrollment and funding changes that happened during that time. This section will show you how to add those historical updates to OEC's data template.
 
 Here are the enrollment changes you'll need to record:
 *   Changes to enrolled site
@@ -120,7 +102,7 @@ To add these changes:
 5. In the new enrollment history row, add the previous enrollment and funding info to indicate the changes
 6. All other fields can be blank for the enrollment history row
 
-See the examples below for a child enrollment that has had changes between July 1, 2020, to December 31, 2020.
+See the examples below.
 
 --- 
 
@@ -148,7 +130,7 @@ See the examples below for a child enrollment that has had changes between July 
 
 ### Add enrollments that have been withdrawn
 
-You’ll need to upload any enrollment that has withdrawn between July 1, 2020, and December 31, 2020. 
+You’ll also need to upload any enrollment that has withdrawn. 
 
 The example below shows what a withdrawn record looks like in OEC’s template. 
 

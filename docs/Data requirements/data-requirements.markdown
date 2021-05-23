@@ -16,13 +16,7 @@ nav_order: 4
 {:toc}
 
 
---- 
-
-## Initial data collection period
-The data collection period begins July 1, 2020 and continues through December 31, 2020.
-
-## Initial data submission deadline
-You must submit your data to OEC by 03/08/2021.
+---
 
 ## Enrollments to include
 Children receiving funding through the following programs:
@@ -34,7 +28,7 @@ Children receiving funding through the following programs:
 - Smart Start
 
 ## Keep data up-to-date
-After entering your July to December data, OEC requires that ECE Reporter be kept up-to-date. Enter your latest enrollment data at least monthly in ECE Reporter.  
+OEC requires that ECE Reporter be kept up-to-date. Enter your latest enrollment data at least monthly in ECE Reporter.  
 
 --- 
 

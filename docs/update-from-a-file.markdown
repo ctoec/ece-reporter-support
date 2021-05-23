@@ -45,6 +45,7 @@ Enter a row for a child currently enrolled in your program, making sure that all
 - First name
 - Last name
 - Date of birth
+- SASID or other unique ID (if you use one)
 
 Then, enter in or edit the following columns:
 - Birth Certificate Type
@@ -59,6 +60,7 @@ Enter a row for a child currently enrolled in your program, making sure that all
 - First name
 - Last name
 - Date of birth
+- SASID or other unique ID (if you use one)
 
 Then, enter in or edit the following columns:
 - Street Address
@@ -73,6 +75,7 @@ Enter a row for a child who has withdrawn from your program, making sure that al
 - First name
 - Last name
 - Date of birth
+- SASID or other unique ID (if you use one)
 - Provider 
 - Site
 - Age group
@@ -93,6 +96,7 @@ Enter TWO rows for a child currently enrolled in your program, making sure that 
 - First name
 - Last name
 - Date of birth
+- SASID or other unique ID (if you use one)
 
 In the FIRST of those two rows, make sure that the following columns for enrollment and funding match the information in ECE Reporter:
 - Provider 
@@ -124,6 +128,7 @@ Enter TWO rows for a child currently enrolled in your program, making sure that 
 - First name
 - Last name
 - Date of birth
+- SASID or other unique ID (if you use one)
 - Provider 
 - Site
 
@@ -153,6 +158,7 @@ Enter TWO rows for a child currently enrolled in your program, making sure that 
 - First name
 - Last name
 - Date of birth
+- SASID or other unique ID (if you use one)
 - Provider 
 - Site
 - Age group
