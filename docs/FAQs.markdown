@@ -23,11 +23,7 @@ nav_order: 2
 ## General
 
 ### Where is my ECIS data?
-We are working to migrate existing ECIS data to the new reporting tool, ECE Reporter.
-
-If your information in ECIS is up to date and correct and you would prefer we pull it from there, then we’d recommend that you wait until we have more information to share regarding the data migration process.
-
-If you do not want to wait, then data should be entered into the new system for the July - December 2020 time period.
+We’ve already transferred all necessary ECIS data into ECE Reporter. If you have questions about your old data, please contact us.
 
 ---
 
