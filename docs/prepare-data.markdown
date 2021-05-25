@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Guide – July to December data collection
+title: Guide – Prepare your data
 permalink: /prepare-your-data/
 nav_order: 2
 
