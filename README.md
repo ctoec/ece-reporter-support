@@ -18,3 +18,6 @@
     ```
     bundle exec jekyll serve
     ```
+
+## Deploy
+Deployments and hosting are both managed by [GitHub Pages](https://github.com/ctoec/ece-reporter-support/settings/pages), currently triggered on each and every merge into our `base` branch.
